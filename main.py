@@ -10,7 +10,7 @@ import random
 from fuzzywuzzy import process
 
 # Токен вашего бота
-TOKEN = '6128741356:AAGP3xyeajzR2jfdxS_Lni2yyUQkenH8cpg'
+TOKEN = 'token'
 data = []
 names = []
 user_fio = {}
